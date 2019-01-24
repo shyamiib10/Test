@@ -7,6 +7,6 @@ public class AddTwoIntegers {
 
         int sum = first + second;
 
-        System.out.println("The sum is updated  : " + sum);
+        System.out.println("The sum is updated: " + sum);
     }
 }
